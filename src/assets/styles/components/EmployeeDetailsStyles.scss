@@ -1,0 +1,28 @@
+:root {
+    --color--text: 0, 0, 0; }
+.employee-details-block {
+    .employee-details-block--field-item {
+        margin-bottom: 10px;
+        .employee-details-block--field-item--gender {
+            margin-right: 10px;
+        }
+    }
+    .employee-details-block--button-block {
+        text-align: right;
+        .employee-details-block--button-block_submit {
+            color: #fff;
+            background: #1890ff;
+            border-color: #1890ff;
+            text-shadow: 0 -1px 0 rgba(var(--color--text), 0.12);
+            box-shadow: 0 2px #0000000b;
+            line-height: 1.5715;
+            border: 1px solid transparent;
+            height: 32px;
+            padding: 4px 15px;
+            font-size: 14px;
+            border-radius: 2px;
+            margin-right: 5px;
+            cursor: pointer;
+        }
+    }
+}

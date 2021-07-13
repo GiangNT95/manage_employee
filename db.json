@@ -1,0 +1,93 @@
+{
+  "employees": [
+    {
+      "firstName": "Liengguu",
+      "lastName": "Nguyendr",
+      "emailAddress": "lien.nguyen@fsoft.com.vn",
+      "phoneNumber": "+6587654321",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "firstName": "Thanh",
+      "lastName": "Nguyen",
+      "emailAddress": "thanh.nguyen@fsoft.com.vn",
+      "phoneNumber": "0987654323",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "firstName": "Tung",
+      "lastName": "Nguyen",
+      "emailAddress": "tung.nguyen@fsoft.com.vn",
+      "phoneNumber": "0987654324",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "firstName": "giangg",
+      "lastName": "nguyen",
+      "emailAddress": "iphone12@gmail.com",
+      "phoneNo": "+10979591095",
+      "id": 7,
+      "gender": "female",
+      "phoneNumber": "9090909090"
+    },
+    {
+      "firstName": "giang7",
+      "lastName": "nguyen",
+      "emailAddress": "iphone12@gmail.com",
+      "phoneNumber": "0979591095",
+      "id": 8,
+      "gender": "female"
+    },
+    {
+      "firstName": "giangfff",
+      "lastName": "nguyen",
+      "emailAddress": "iphone12@gmail.com",
+      "phoneNumber": "0979591095",
+      "id": 11,
+      "gender": "female"
+    },
+    {
+      "firstName": "giang4545",
+      "lastName": "nguyen",
+      "emailAddress": "iphone12@gmail.com",
+      "phoneNumber": "0979591095",
+      "id": 12,
+      "gender": "female"
+    },
+    {
+      "firstName": "giang33",
+      "lastName": "nguyen",
+      "emailAddress": "iphone12@gmail.com",
+      "phoneNumber": "0979591095",
+      "gender": "female",
+      "id": 13
+    },
+    {
+      "firstName": "tungtt",
+      "lastName": "nguyen",
+      "emailAddress": "iphone12@gmail.com",
+      "phoneNumber": "0987777777",
+      "gender": "male",
+      "id": 14
+    },
+    {
+      "firstName": "giangtyu",
+      "lastName": "nguyen",
+      "emailAddress": "iphone12@gmail.com",
+      "phoneNumber": "4675674534534",
+      "gender": "male",
+      "id": 15
+    },
+    {
+      "firstName": "asdsasad",
+      "lastName": "đasadas",
+      "phoneNumber": "6570162891",
+      "emailAddress": "sonqhse04916@fpt.edu.vn",
+      "gender": "male",
+      "id": 16
+    }
+  ]
+}

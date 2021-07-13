@@ -1,0 +1,17 @@
+.table-block {
+    height: 500px;
+    min-height: 500px;
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+    .table-block--add-block {
+        text-align: right;
+        display: block;
+        margin-bottom: 20px;
+        .add-block__button {
+            background-color: #28a745 !important;
+            color: #fff !important;
+            border: solid 1px #28a745 !important;
+        }
+    }
+}

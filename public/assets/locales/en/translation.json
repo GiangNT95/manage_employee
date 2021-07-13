@@ -1,0 +1,36 @@
+{
+  "app_title": "Manage Employees",
+  "language": "Language",
+  "menu_item_home": "Home",
+  "menu_item_employee_list": "Employee List",
+  "employee_list_page_title": "Employee List",
+  "add_new_employee_button": "Add New Employee",
+  "first_name_field": "First Name",
+  "last_name_field": "Last Name",
+  "email_address_field": "Email Address",
+  "phone_number_field": "Phone Number",
+  "gender_field": "Gender",
+  "action_field": "Action",
+
+  "new_employee_page_title": "New Employee",
+  "update_employee_page_title": "Update Employee",
+  "male_label": "Male",
+  "female_label": "Female",
+  "submit_button_label": "Submit",
+  "cancel_button_label": "Cancel",
+
+  "error_label": "Error",
+  "added_label": "Added!",
+  "deleted_label": "Deleted!",
+  "updated_label": "Updated!",
+  "add_employee_success_message": "The employee has been added successfully",
+  "delete_employee_success_message": "The employee has been deleted.",
+  "update_employee_success_message": "The employee has been updated.",
+  "error_message": "An error ocurred. Please, try it again.",
+
+  "404_not_found_label": "404 not found",
+  "loading_label": "Loading",
+  "delete_employee_confirm": "Are you sure to delete this employee?",
+
+  "dirty_check_form_employee_action": "Form has been modified. You will loose your unsaved changes. Are you sure you want to close this form?"
+}

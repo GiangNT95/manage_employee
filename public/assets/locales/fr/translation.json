@@ -1,0 +1,37 @@
+{
+  "app_title": "Gérer les employés",
+  "language": "Langue",
+  "menu_item_home": "domicile",
+  "menu_item_employee_list": "Liste des employés",
+  "employee_list_page_title": "Liste des employés",
+  "add_new_employee_button": "Ajouter un nouvel employé",
+  "first_name_field":"Prénom",
+  "last_name_field":"Nom de famille",
+  "email_address_field":"Adresse e-mail",
+  "phone_number_field":"Numéro de téléphone",
+  "gender_field":"Genre",
+  "action_field":"Action",
+
+  "new_employee_page_title":"Nouvel employé",
+  "update_employee_page_title":"Mettre à jour l'employé",
+  "male_label":"mâle",
+  "female_label":"Femelle",
+  "submit_button_label":"Soumettre",
+  "cancel_button_label":"Annuler",
+
+  "error_label":"Erreur",
+  "added_label":"Ajouté!",
+  "deleted_label":"Supprimé!",
+  "updated_label":"Mise à jour!",
+  "add_employee_success_message": "L'employé a été ajouté avec succès",
+  "delete_employee_success_message": "L'employé a été supprimé.",
+  "update_employee_success_message": "L'employé a été mis à jour.",
+  "error_message": "Une erreur s'est produite. Veuillez réessayer.",
+
+  "404_not_found_label":"404 non trouvé",
+  "loading_label": "Chargement",
+  "delete_employee_confirm": "Êtes-vous sûr de supprimer cet employé ?",
+
+  "dirty_check_form_employee_action": "Le formulaire a été modifié. Vous perdrez vos modifications non enregistrées. Êtes-vous sûr de vouloir fermer ce formulaire ?"
+
+}

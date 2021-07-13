@@ -1,0 +1,28 @@
+.layout-block {
+    background-color: #435d7d !important;
+    .layout-block--logo-page {
+        float: left;
+        width: 20%;
+        height: 31px;
+        color: #fff !important;
+        .header__title {
+            color: #fff;
+            cursor: pointer;
+        }
+    }
+    .layout-block--menu {
+        width: 70%;
+        display: inline-block;
+    }
+    .layout-block--multiple-language {
+        width: 10%;
+        display: inline-block;
+        .layout-block--multiple-language--icon {
+            width: 20px;
+            margin-right: 5px;
+        }
+        .ant-dropdown-link {
+            color: #fff;
+        }
+    }
+}
